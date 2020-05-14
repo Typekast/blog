@@ -1,0 +1,10 @@
+version: "3.5"
+
+services:
+  site:
+    build: .
+    ports:
+      - 8080:8080
+    volumes:
+      - .:/site
+    command: bundle exec jekyll serve --port 8080 --host 0.0.0.0 --incremental
