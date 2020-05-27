@@ -1,4 +1,4 @@
-remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+remote_theme: typekast/startbootstrap-clean-blog-jekyll
 title:              Typekast
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
@@ -10,10 +10,17 @@ url:                "https://typekast.github.io/"
 twitter_username:   typekast 
 github_username:    typekast 
 facebook_username:  typekast
+instagram_username: typekast.io
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Meta tags configuration
+meta_image: "/img/bg-index.jpg"
+meta_image_width: 200
+meta_image_height: 200
+meta_locale: "pt_BR"
 
 # Build settings
 markdown:           kramdown
