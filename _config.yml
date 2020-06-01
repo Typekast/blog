@@ -1,15 +1,16 @@
 remote_theme: typekast/startbootstrap-clean-blog-jekyll
-title:              Typekast
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Typekast
+title:              Typekast.io
+email:              typekast.io@gmail.com
+short_description:  Propagando conhecimento tecnológico.
+description:        Typekast.io é um blog que tem como objetivo propagar conhecimento sobre desenvolvimento de software e tecnologia.
+author:             Typekast.io
 baseurl:            "/"
-url:                "https://typekast.github.io/"
+url:                "https://typekast.github.io"
 
 # Social Profiles
-twitter_username:   typekast 
+twitter_username:   typekastio
 github_username:    typekast 
-facebook_username:  typekast
+facebook_username:
 instagram_username: typekast.io
 linkedin_username:
 
