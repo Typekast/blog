@@ -6,6 +6,7 @@ description:        Typekast.io é um blog que tem como objetivo propagar conhec
 author:             Typekast.io
 baseurl:            "/"
 url:                "https://typekast.github.io"
+podcast_url:        https://anchor.fm/saifora
 
 # Social Profiles
 twitter_username:   typekastio
