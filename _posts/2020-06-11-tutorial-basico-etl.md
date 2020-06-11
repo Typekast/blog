@@ -4,7 +4,7 @@ title: "Implementando uma pipeline de dados simples em Python"
 subtitle: "Aprendendo como implementar uma rotina em Python seguindo o processo ETL no dataset público de cotações de fundos de investimento."
 date: 2020-06-11 18:00:13 -0300
 author: Matheus Batista
-background: 'img/post_etl_bg.jpg'
+background: '/img/posts/post_etl_bg.jpg'
 ---
 
 # Introdução
